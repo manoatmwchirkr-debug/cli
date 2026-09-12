@@ -9,7 +9,7 @@
     url: /commands/npm-access
     description: Set access level on published packages
   - title: npm adduser
-    url: /commands/npm-adduser
+    url: /commands/npm-adduser 
     description: Add a registry user account
   - title: npm audit
     url: /commands/npm-audit
@@ -132,7 +132,7 @@
     url: /commands/npm-root
     description: Display npm root
   - title: npm run-script
-    url: /commands/npm-run-script
+    url: /commands/npm-run
     description: Run arbitrary package scripts
   - title: npm search
     url: /commands/npm-search
